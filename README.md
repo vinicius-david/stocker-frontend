@@ -2,6 +2,8 @@
 
 > A simple app designed to shows the stocks market price from up to the last 20 years. Developed using ReactJS in typescript and the Alpha Vantage API.
 
+![stocker](https://media.giphy.com/media/ekEohyYv8h24zNLmQI/giphy.gif)
+
 ### Technologies
 
 - Typescript
